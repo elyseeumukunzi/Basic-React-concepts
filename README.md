@@ -13,6 +13,12 @@ The state is a built-in React object that is used to contain data or information
 
 <br><b>Here are some examples of use of react props states and components</b>
 
+<!--<br><b>Here are some examples of use of react props states and components</b>
+In ReactJS, the props are a type of object where the value of attributes of a tag is stored. The word “props” implies “properties”, and its working functionality is quite similar to HTML attributes. Basically, these props components are read-only components. we will see how props are passed to components in react<br>
+<b><u>What is states in react
+-->
+
+
 
 
 
